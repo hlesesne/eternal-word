@@ -3,7 +3,7 @@
 
 
 
-Command: ipfs add C:\Users\adamb\IPFS\ETERNAL-WORD-PROJECT\eternal-word -r
+Command: ipfs add C:\Users\adamb\Documents\GitHub\eternal-word -r
 
 ----------------------------------------------------------------
 
@@ -11,7 +11,7 @@ Name: The Eternal Word
 
 ENS: http://eternalword.eth.link
 
-Latest IPFS Hash: QmVvyb8tWqFgjqArrX8yYofrMfcFpQLMLtrfoeSdekv8g1
+Latest IPFS CID: QmS93BkrxXTsgu92f2TKKvVX2MkC2rmKp2d3o6FqwR9D1Y
 
 ----------------------------------------------------------------
 
@@ -24,5 +24,6 @@ Old Hashed------------------------------------------------------
 v1. QmYe9V9nGVbv9PvswifjRJPBhaGoJE1HeS8ZzU41ZuB1DB
 v2. QmaSBFmy2MmPT8EkJJCGNgQmAwP2bqttjgNtNPT6Px6zrm
 v3. QmXyMt9R1AWMfHgWg7erPSHJYGrV6ksabXhv6QQqgTp7hb
+v4. QmVvyb8tWqFgjqArrX8yYofrMfcFpQLMLtrfoeSdekv8g1
 
 ----------------------------------------------------------------
